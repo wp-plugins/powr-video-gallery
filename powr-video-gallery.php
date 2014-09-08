@@ -6,7 +6,7 @@
     /*
     Plugin Name: POWr Video Gallery
     Plugin URI: http://www.powr.io
-    Description: Display YouTube and Vimeo videos in a beautiful gallery Add the widget to your theme, or create a Video Gallery on ANY page or post by using the shortcode [powr-video-gallery]. Then, simply visit your site and click the settings icon to customize your Video Gallery right in the page. Many more plugins & tutorials at POWr.io.
+    Description: Showcase YouTube and Vimeo videos in a beautiful gallery! Add the widget to your theme, or create a Video Gallery on ANY page or post by using the shortcode [powr-video-gallery]. Then, simply visit your site and click the settings icon to customize your Video Gallery right in the page. Many more plugins & tutorials at POWr.io.
     Author: POWr.io
     Version: 1.0
     Author URI: http://www.powr.io
