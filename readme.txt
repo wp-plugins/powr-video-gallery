@@ -4,7 +4,7 @@ Contributors: powr
 Donate link: http://powr.io/
 Tags: video gallery, youtube gallery, vimeo gallery, vine gallery, video gallery widget, video gallery plugin, mobile responsive, mobile responsive, online gallery, art gallery, upload pictures, photo upload, upload photo, upload video, file upload, jquery gallery, media gallery, video gallery, event gallery, multimedia gallery, responsive design, personalized, ecommerce, customize, optimize, sidebar, drag and drop, WYSIWYG, graphic artist, designer tools, free, tutorial, product demos, masonry, Pinterest-style, youtube, vimeo
 Requires at least: 3.0
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
