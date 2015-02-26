@@ -9,18 +9,19 @@ Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-POWr Video Gallery lets you showcase unlimited videos from YouTube and Vimeo in a beautiful gallery.  Edit right in your web page!
+Showcase YouTube and Vimeo videos in a beautiful gallery!
 
 == Description ==
-POWr Video Gallery is a free cloud-based application.  Create a POWr account to add, edit, and customize POWr Plugins right in your webpage.
+Showcase YouTube and Vimeo videos in a beautiful gallery!
 <br>
 <br>
-To use Video Gallery, download and install the plugin, then add to your site as a widget or a shortcode in any post or page: **[powr-banner-slider]**
-
-<blockquote>
-= <a href='https://www.powr.io/plugins/video-gallery'>Download</a>  |  <a href='http://www.powr.io/tutorials/how-to-add-video-gallery-plugin-to-your-wordpress-site'>Install Help</a>  |  <a href='http://www.powr.io/knowledge-base'>Knowledge Base</a>  |  <a href='http://www.powr.io/plugins'>More from POWr</a> =
+POWr Video Gallery is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
 <br>
-</blockquote>
+<br>
+First, download, install, and activate POWr Video Gallery. Then drop the widget anywhere in your theme. Or add to a page/post with the POWr icon in the WP editor.
+<br>
+= <a href='http://www.powr.io/tutorials/how-to-add-video-gallery-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
+<br>
 
 = Free Features =
 * Easily add unlimited videos from YouTube and Vimeo.
@@ -30,25 +31,26 @@ To use Video Gallery, download and install the plugin, then add to your site as 
 * Built-in support for text in any language.
 * Mobile responsive design looks great on any device.
 <br>
-= Upgrade to POWr Premium ($3.99)/month and: =
+= Upgrade ($3.99)/mo and: =
 * Eliminate all POWr logos and watermarks
 
-* Boost plugin load speeds
 * Receive premium POWr support
 * Support the development of other great plugins
 
 == Installation ==
-To install POWr Video Gallery
-<br><br>
-1. Upload 'powr-video-gallery.php' to the '/wp-content/plugins/' directory
+Download, install, and activate POWr Video Gallery.
 <br>
-2. Activate the plugin through the 'Plugins' menu in WordPress
-<br><br>
-To add POWr Video Gallery as a widget, go to **Appearance->Widgets**, and drag POWr Video Gallery to where you'd like it to appear.
-<br><br>
-To add Video Gallery within a post or a page, simply write the shortcode **[powr-video-gallery label='MY LABEL']** (including the brackets) where you'd like your Video Gallery to appear. Then visit your page!
-<br><br>
-Want a more detailed tutorial? Visit [How to add Video Gallery to your Wordpress site](http://www.powr.io/tutorials/how-to-add-video-gallery-plugin-to-your-wordpress-site)
+<br>
+Then drop the widget anywhere in your theme.
+<br>
+<br>
+Or add to a page/post with the POWr Icon in the WP text editor.
+<br>
+<br>
+Then visit your site to and click the settings icon to edit right in the page.
+<br>
+= <a href='http://www.powr.io/tutorials/how-to-add-video-gallery-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
+
 
 
 == Frequently Asked Questions ==
@@ -86,6 +88,9 @@ Improved SSL Support
 = 1.2 =
 Improved loading speed
 
+= 1.3 =
+Easily add POWr plugins right from the text editor.
+
 
 
 == Changelog ==
@@ -97,5 +102,8 @@ Improved loading speed
 
 = 1.2 =
 * Improved loading speed
+
+= 1.3 =
+Easily add POWr plugins right from the text editor.
 
 
