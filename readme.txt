@@ -22,7 +22,6 @@ First, download, install, and activate POWr Video Gallery. Then drop the widget 
 <br>
 = <a href='http://www.powr.io/tutorials/how-to-add-video-gallery-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
-
 = Free Features =
 * Easily add unlimited videos from YouTube and Vimeo.
 * Choose from expert-designed templates, or take control with custom layout, fonts, colors and more!
@@ -33,9 +32,10 @@ First, download, install, and activate POWr Video Gallery. Then drop the widget 
 <br>
 = Upgrade ($3.99)/mo and: =
 * Eliminate all POWr logos and watermarks
-
+* Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
+
 
 == Installation ==
 Download, install, and activate POWr Video Gallery.
