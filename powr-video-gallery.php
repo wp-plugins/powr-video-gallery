@@ -1,14 +1,14 @@
 <?php
     /**
      * @package POWr Video Gallery
-     * @version 1.4.004
+     * @version 1.4.005
      */
     /*
     Plugin Name: POWr Video Gallery
     Plugin URI: http://www.powr.io
     Description: Showcase YouTube and Vimeo videos in a beautiful gallery!  Drop the widget anywhere in your theme. Or use the POWr icon in your WP text editor to add to a page or post. Edit on your live page by clicking the settings icon. More plugins and tutorials at POWr.io.
     Author: POWr.io
-    Version: 1.4.004
+    Version: 1.4.005
     Author URI: http://www.powr.io
     */
 
