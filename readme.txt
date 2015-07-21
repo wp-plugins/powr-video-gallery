@@ -2,7 +2,7 @@
 ===POWr Video Gallery===
 Contributors: powr
 Donate link: http://powr.io/
-Tags: video gallery, youtube gallery, vimeo gallery, vine gallery, video gallery widget, video gallery plugin, mobile responsive, mobile responsive, online gallery, art gallery, upload pictures, photo upload, upload photo, upload video, file upload, jquery gallery, media gallery, video gallery, event gallery, multimedia gallery, responsive design, personalized, ecommerce, customize, optimize, sidebar, drag and drop, WYSIWYG, graphic artist, designer tools, free, tutorial, product demos, masonry, Pinterest-style, youtube, vimeo
+Tags: video gallery, youtube gallery, vimeo gallery, payment, buy, sell, paypal, donation, subscription, recurring, ecommerce, vine gallery, video gallery widget, video gallery plugin, mobile responsive, mobile responsive, online gallery, art gallery, upload pictures, photo upload, upload photo, upload video, file upload, jquery gallery, media gallery, video gallery, event gallery, multimedia gallery, responsive design, personalized, ecommerce, customize, optimize, sidebar, drag and drop, WYSIWYG, graphic artist, designer tools, free, tutorial, product demos, masonry, Pinterest-style, youtube, vimeo
 Requires at least: 3.0
 Tested up to: 4.2
 Stable tag: 1.4
@@ -24,8 +24,9 @@ First, download, install, and activate POWr Video Gallery. Then drop the widget 
 <br>
 = Free Features =
 * Easily add any public videos from YouTube and Vimeo.
-* Choose from expert-designed templates, or take control with custom layout, fonts, colors and more!
-* Enrich videos with custom titles, text, images, buttons, and more
+* Use expert templates or customize from scratch. 
+* Adjust fonts, colors, borders, backgrounds, and more.
+* Accept payments, donations, and subscriptions through PayPal.
 * Built-in links to share on Facebook, Twitter, Google+, and more.
 * Built-in support for text in any language.
 * Mobile responsive design looks great on any device.
